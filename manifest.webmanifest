@@ -1,0 +1,13 @@
+{
+  "name": "Barrio Vivo",
+  "short_name": "Barrio Vivo",
+  "description": "La app del juego de mesa Barrio Vivo: banco, clima, noticias y premios de la ciudad.",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FBF5E9",
+  "theme_color": "#E4572E",
+  "icons": [{ "src": "./icono.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
