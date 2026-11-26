@@ -1,13 +1,20 @@
 {
-  "name": "Barrio Vivo",
-  "short_name": "Barrio Vivo",
-  "description": "La app del juego de mesa Barrio Vivo: banco, clima, noticias y premios de la ciudad.",
+  "name": "Patiperros",
+  "short_name": "Patiperros",
+  "description": "Mesa virtual de Patiperros: recorre Chile comprando negocios, construye pisos y gánate las lucas en los minijuegos.",
   "lang": "es",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "orientation": "portrait",
-  "background_color": "#FBF5E9",
-  "theme_color": "#E4572E",
-  "icons": [{ "src": "./icono.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+  "orientation": "any",
+  "background_color": "#F3E6CF",
+  "theme_color": "#2E4A7D",
+  "icons": [
+    {
+      "src": "./icono.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
 }

@@ -1,4 +1,4 @@
-# Barrio Vivo
+# Patiperros
 
-Versión publicada de la app del juego de mesa Barrio Vivo.
+Versión publicada de la mesa virtual del juego de mesa Patiperros.
 Este repositorio solo contiene la app compilada.

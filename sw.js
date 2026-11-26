@@ -1,6 +1,6 @@
-// Servicio sin conexión de Barrio Vivo: guarda la app completa la primera vez que
+// Servicio sin conexión de Patiperros: guarda la app completa la primera vez que
 // se abre con internet y después la sirve desde el teléfono.
-const CACHE = 'barrio-vivo-v2';
+const CACHE = 'patiperros-v02-1';
 
 // Al instalarse lee la página, encuentra sus archivos (código, estilos, icono)
 // y los guarda todos, para que una sola visita con internet alcance.
